@@ -9,7 +9,7 @@ we can predict the sales that the company can make in the next week.
 
 Here we are to use a app_loger function to get the data that we want. 
 
-## Expore the data through EDA
+## Explore the data through EDA
 
 ## create a model for the time series analysis
 
